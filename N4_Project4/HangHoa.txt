@@ -1,0 +1,42 @@
+MH02
+Banh Trang
+Can Tho
+Vang
+8000
+17/06/2022
+10
+MH03
+Nguoi Yeu
+TP HCM
+Xanh
+100000
+10/07/2022
+100
+MH04
+Tui
+TP HCM
+Den
+250000
+28/06/2022
+10
+MH05
+Ao
+TPHCM
+Trang
+100000
+20/11/2022
+100
+MH06
+Quan
+Binh Thuan
+Do
+5000
+10/08/2022
+1982
+MH01
+Tra Sua Con Ong
+Sai Gon
+Den
+120000
+30/12/2022
+90
